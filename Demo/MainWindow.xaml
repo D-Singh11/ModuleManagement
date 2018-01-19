@@ -1,0 +1,39 @@
+﻿<Window x:Name="Main_Window" x:Class="Presentation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Module Mangement System" Height="395.948" Width="686.236" Background="#FFD6D6D6" ResizeMode="NoResize">
+    <Grid Margin="0,0,0,-5">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="132,90,0,0" x:Name="tb_Fname" VerticalAlignment="Top" Width="87" />
+        <Label x:Name="lb_Fname" Content="First name" HorizontalAlignment="Left" Margin="22,87,0,0" VerticalAlignment="Top" Height="26" Width="65"/>
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="132,130,0,0" x:Name="tb_Sname" VerticalAlignment="Top" Width="87" />
+        <Label x:Name="lb_Sname" Content="Sur name" HorizontalAlignment="Left" Margin="22,127,0,0" VerticalAlignment="Top" Height="26" Width="60"/>
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="132,170,0,0" x:Name="tb_CwMark" VerticalAlignment="Top" Width="87" />
+        <Label x:Name="lb_CwMark" Content="Cw Mark" HorizontalAlignment="Left" Margin="22,167,0,0" VerticalAlignment="Top" Height="26" Width="56"/>
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="132,210,0,0" x:Name="tb_ExamMark" VerticalAlignment="Top" Width="87" />
+        <Label x:Name="lb_ExamMark" Content="Exam Mark" HorizontalAlignment="Left" Margin="22,207,0,0" VerticalAlignment="Top" Height="26" Width="68"/>
+        <Label x:Name="lb_Dob" Content="D.o.b" HorizontalAlignment="Left" Margin="22,249,0,0" VerticalAlignment="Top" Height="26" Width="38"/>
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="566,88,0,0" x:Name="tb_MatricNo" VerticalAlignment="Top" Width="87" />
+        <Label x:Name="lb_MatricNo" Content="Matriculation No." HorizontalAlignment="Left" Margin="22,52,0,0" VerticalAlignment="Top" Height="26" Width="102"/>
+        <Button x:Name="bt_Add" Content="Add" HorizontalAlignment="Left" Margin="70,309,0,0" VerticalAlignment="Top" Width="75" Click="bt_Add_Click" Height="20"/>
+        <Button x:Name="bt_Find" Content="Find" HorizontalAlignment="Left" Margin="474,130,0,0" VerticalAlignment="Top" Width="75" Click="bt_Find_Click" Height="20"/>
+        <Button x:Name="bt_Delete" Content="Delete" HorizontalAlignment="Left" Margin="578,130,0,0" VerticalAlignment="Top" Width="75" Click="bt_Delete_Click" Height="20"/>
+        <ListBox x:Name="lbox_StudentRecord" HorizontalAlignment="Left" Height="186" Margin="280,87,0,0" VerticalAlignment="Top" Width="144" Background="#FFDDDDDD" BorderBrush="#FF707070" MouseDoubleClick="lbox_StudentRecord_MouseDoubleClick"/>
+        <DatePicker x:Name="dp_Dob"  HorizontalAlignment="Left" Margin="132,250,0,0" VerticalAlignment="Top" IsTodayHighlighted="True"  Focusable="False" DisplayDateEnd="2017-10-18" Height="24" Width="102"/>
+        <Button x:Name="bt_ShowAll" Content="Show All" HorizontalAlignment="Left" Margin="310,309,0,0" VerticalAlignment="Top" Width="76" Click="bt_ShowAll_Click" Height="20"/>
+        <Label x:Name="lb_Matric_List_box" Content="Matriculation numbers list" HorizontalAlignment="Left" Margin="253,15,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="14" Height="29" Width="184"/>
+        <Label x:Name="lb_Find_Delete" Content=" Find or Delete student record" HorizontalAlignment="Left" Margin="459,15,0,0" VerticalAlignment="Top" FontWeight="Bold" Height="26" FontSize="14" Width="207"/>
+        <Label x:Name="lb_Matric_Display" Content="Auto generated" HorizontalAlignment="Left" Margin="132,53,0,0" VerticalAlignment="Top" Width="87" FontSize="11" Height="25"/>
+        <Button x:Name="bt_Clear" Content="Clear Form" HorizontalAlignment="Left" Margin="520,309,0,0" VerticalAlignment="Top" Width="74" Click="bt_Clear_Click" Height="20"/>
+        <Label x:Name="lb_MatricNo_find_delete" Content="Matriculation No." HorizontalAlignment="Left" Margin="459,87,0,0" VerticalAlignment="Top" Height="26" Width="102"/>
+        <Label x:Name="lb_Add_new_student" Content="      Add new student" HorizontalAlignment="Left" Margin="33,15,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="14" Height="29" Width="146"/>
+        <Label x:Name="lb_Double_click_instructions" Content="( Double click on matriculation number &#xD;&#xA;                    to show details  )" HorizontalAlignment="Left" Margin="262,38,0,0" VerticalAlignment="Top" Width="187" FontSize="9" Height="40"/>
+        <Label x:Name="lb_Find_Delete_instructions" Content="( Enter matriculation number to find or delete&#xD;&#xA;         student details linked with number )" HorizontalAlignment="Left" Margin="461,37,0,0" VerticalAlignment="Top" Width="192" FontSize="9" Height="41"/>
+        <Label x:Name="lb_Display_Found_deatils" Content="" HorizontalAlignment="Left" Margin="474,176,0,0" VerticalAlignment="Top" Width="192" FontSize="11" Height="119"/>
+        <Label x:Name="lb_Found_heading" Content="Found details :" HorizontalAlignment="Left" Margin="474,155,0,0" VerticalAlignment="Top" Height="26" Width="87"/>
+
+    </Grid>
+</Window>

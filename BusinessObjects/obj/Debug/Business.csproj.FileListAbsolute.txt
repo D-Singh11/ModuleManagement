@@ -1,0 +1,35 @@
+C:\Users\New\Desktop\CS2\1. Object Oriented Software Development\Coursework 1 -W8\demoCode\Demo\BusinessObjects\bin\Debug\BusinessObjects.dll
+C:\Users\New\Desktop\CS2\1. Object Oriented Software Development\Coursework 1 -W8\demoCode\Demo\BusinessObjects\bin\Debug\BusinessObjects.pdb
+C:\Users\New\Desktop\CS2\1. Object Oriented Software Development\Coursework 1 -W8\demoCode\Demo\BusinessObjects\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\New\Desktop\CS2\1. Object Oriented Software Development\Coursework 1 -W8\demoCode\Demo\BusinessObjects\obj\Debug\BusinessObjects.dll
+C:\Users\New\Desktop\CS2\1. Object Oriented Software Development\Coursework 1 -W8\demoCode\Demo\BusinessObjects\obj\Debug\BusinessObjects.pdb
+H:\CS2\1. Object Oriented Software Development\Coursework 1 -W8\demoCode\Demo\BusinessObjects\bin\Debug\BusinessObjects.dll
+H:\CS2\1. Object Oriented Software Development\Coursework 1 -W8\demoCode\Demo\BusinessObjects\bin\Debug\BusinessObjects.pdb
+H:\CS2\1. Object Oriented Software Development\Coursework 1 -W8\demoCode\Demo\BusinessObjects\obj\Debug\Business.csprojResolveAssemblyReference.cache
+H:\CS2\1. Object Oriented Software Development\Coursework 1 -W8\demoCode\Demo\BusinessObjects\obj\Debug\BusinessObjects.dll
+H:\CS2\1. Object Oriented Software Development\Coursework 1 -W8\demoCode\Demo\BusinessObjects\obj\Debug\BusinessObjects.pdb
+C:\Users\40320443\Desktop\demoCode\Demo\BusinessObjects\bin\Debug\BusinessObjects.dll
+C:\Users\40320443\Desktop\demoCode\Demo\BusinessObjects\bin\Debug\BusinessObjects.pdb
+C:\Users\40320443\Desktop\demoCode\Demo\BusinessObjects\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\40320443\Desktop\demoCode\Demo\BusinessObjects\obj\Debug\BusinessObjects.dll
+C:\Users\40320443\Desktop\demoCode\Demo\BusinessObjects\obj\Debug\BusinessObjects.pdb
+G:\CS2\demoCode\Demo\BusinessObjects\bin\Debug\BusinessObjects.dll
+G:\CS2\demoCode\Demo\BusinessObjects\bin\Debug\BusinessObjects.pdb
+G:\CS2\demoCode\Demo\BusinessObjects\obj\Debug\Business.csprojResolveAssemblyReference.cache
+G:\CS2\demoCode\Demo\BusinessObjects\obj\Debug\BusinessObjects.dll
+G:\CS2\demoCode\Demo\BusinessObjects\obj\Debug\BusinessObjects.pdb
+F:\CS2\demoCode\Demo\BusinessObjects\bin\Debug\BusinessObjects.dll
+F:\CS2\demoCode\Demo\BusinessObjects\bin\Debug\BusinessObjects.pdb
+F:\CS2\demoCode\Demo\BusinessObjects\obj\Debug\Business.csprojResolveAssemblyReference.cache
+F:\CS2\demoCode\Demo\BusinessObjects\obj\Debug\BusinessObjects.dll
+F:\CS2\demoCode\Demo\BusinessObjects\obj\Debug\BusinessObjects.pdb
+C:\Users\New\Desktop\CS2\1. Object Oriented Software Development\Coursework 1 -W8\40320443 Coursework 1\Completed\demoCode\Demo\BusinessObjects\bin\Debug\BusinessObjects.dll
+C:\Users\New\Desktop\CS2\1. Object Oriented Software Development\Coursework 1 -W8\40320443 Coursework 1\Completed\demoCode\Demo\BusinessObjects\bin\Debug\BusinessObjects.pdb
+C:\Users\New\Desktop\CS2\1. Object Oriented Software Development\Coursework 1 -W8\40320443 Coursework 1\Completed\demoCode\Demo\BusinessObjects\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\New\Desktop\CS2\1. Object Oriented Software Development\Coursework 1 -W8\40320443 Coursework 1\Completed\demoCode\Demo\BusinessObjects\obj\Debug\BusinessObjects.dll
+C:\Users\New\Desktop\CS2\1. Object Oriented Software Development\Coursework 1 -W8\40320443 Coursework 1\Completed\demoCode\Demo\BusinessObjects\obj\Debug\BusinessObjects.pdb
+C:\Users\New\Desktop\Github\Module_Management\BusinessObjects\bin\Debug\BusinessObjects.dll
+C:\Users\New\Desktop\Github\Module_Management\BusinessObjects\bin\Debug\BusinessObjects.pdb
+C:\Users\New\Desktop\Github\Module_Management\BusinessObjects\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\New\Desktop\Github\Module_Management\BusinessObjects\obj\Debug\BusinessObjects.dll
+C:\Users\New\Desktop\Github\Module_Management\BusinessObjects\obj\Debug\BusinessObjects.pdb
